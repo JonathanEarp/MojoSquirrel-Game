@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonathan\source\repos\project8\project8\source.cpp(189): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project8.vcxproj -> C:\Users\Jonathan\source\repos\Project8\Debug\Project8.exe
